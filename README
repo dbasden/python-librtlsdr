@@ -1,0 +1,14 @@
+Some simple ctypes python bindings for librtlsdr
+
+First, get and install librtlsdr from http://sdr.osmocom.org/trac/wiki/rtl-sdr
+
+This does nothing but wrap librtlsdr
+
+librtlsdr.so should be in your library path. It's a good idea if you
+make sure that the rtlsdr binary that comes with it works before you
+try this.
+
+I haven't tested this with windows. Theoretically it should work with
+librtlsdr compiled as a DLL
+
+ -- David Basden <davidb-sdr@rcpt.to>
