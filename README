@@ -1,3 +1,6 @@
+**** WARNING: These bindings are several years out of date.  The librtlsdr library has almost certainly chained it's API enough to make them broken out of the box.
+
+
 Some simple ctypes python bindings for librtlsdr
 
 First, get and install librtlsdr from http://sdr.osmocom.org/trac/wiki/rtl-sdr
